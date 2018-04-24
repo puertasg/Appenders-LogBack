@@ -1,5 +1,6 @@
 package dev.console;
 
+import dev.service.AppService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
